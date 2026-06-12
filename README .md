@@ -7,7 +7,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-5.x-purple?logo=plotly&logoColor=white)
 ![Groq](https://img.shields.io/badge/LLM-Groq%20%2F%20LLaMA-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bi-dashboard-builder-pnf8r8jjmyujpndf5znazz.streamlit.app/)
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bi-dashboard-builder.streamlit.app/)
 
 ---
 
